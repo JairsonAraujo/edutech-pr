@@ -1,2 +1,2 @@
 # edutech-pr
-Projetos de programção EduTech.
+Projetos de programação EduTech.
